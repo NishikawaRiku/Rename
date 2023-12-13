@@ -1,0 +1,11 @@
+...the top right or press 'Ctrl + C key'.
+	→ ...the top right or press 'Ctrl + C'.
+
+1 files
+	→ 1 file or 2+ files
+
+...rename the names of all files
+	→ ...rename the files
+
+...within the (name of folder)
+	→　within the '(name of folder)'
